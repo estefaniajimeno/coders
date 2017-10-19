@@ -1,0 +1,62 @@
+.imagen1{
+	background-image:url("bulldog1.jpg");
+	border:2px groove black;
+}
+.imagen2{
+	background-image:url("bulldog2.jpg");
+	border:2px groove black;
+ }
+.imagen3{
+	background-image: url("bulldog3.jpg");
+	border:2px groove black;
+}
+.imagen4{
+	background-image:url("bulldog4.jpg");
+	border:2px groove black;
+}
+.imagen5{
+	background-image:url("bulldog5.jpg");
+	border:2px groove black;
+}
+.imagen6{
+	background-image:url("bulldog6.jpg");
+	border:2px groove black;
+}
+
+.box{
+	width:200px;
+	height:200px;
+	float:left;
+	margin:25px;
+ 
+}
+
+
+.nombre{
+	text-align:right;
+	margin-top:170px;
+	color:grey;
+
+}
+
+.caja1{
+	overflow: hidden;
+
+
+}
+
+
+	
+	
+
+
+/*.caja1{
+	width:px;
+	height:150px;
+	float:left;
+	overflow:hidden;
+	clear: both;*/
+
+
+
+
